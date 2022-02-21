@@ -1,0 +1,4 @@
+world: "Lostaria"
+mainLake: [ 28.5, 78.0, 22.5 ]
+cavern: [ 8.5, 114.0, 78.5 ]
+forgottenSource: [ 41.5, 97.0, 10.5 ]

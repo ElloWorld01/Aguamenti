@@ -1,0 +1,8 @@
+name: Aguamenti
+version: 1.2.1
+author: ElloWorld
+main: fr.elloworld.aguamenti.Aguamenti
+api-version: 1.18
+commands:
+  fishing:
+    description: "Historique des pêches :/fishing\nGérer le leaderboard : /fishing leaderboard <create|remove|reload|reset>"
